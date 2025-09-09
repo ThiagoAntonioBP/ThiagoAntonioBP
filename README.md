@@ -13,5 +13,9 @@
 ##
 
 <div>
-<a href="www.linkedin.com/in/thiago-antonio-braga-page-68658922a" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" target="_blank"></a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"
+
+  www.linkedin.com/in/
+thiago-antonio-braga-page-68658922a
+
 </div>
